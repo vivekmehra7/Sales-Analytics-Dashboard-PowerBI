@@ -1,5 +1,4 @@
 # Sales-Analytics-Dashboard-PowerBI
-Interactive Sales &amp; Profit Dashboard built using Power BI
 
 An interactive dashboard built to analyze sales performance, profit, margin %, category trends, regional sales, and channel comparison for business decision-making.
 
