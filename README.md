@@ -22,7 +22,9 @@ Region-wise Performance Analysis
 
 Sales Channel Comparison (Online vs Offline)
 
-**Dashboard Objectives**
+
+
+**Dashboard Objectives - **
 
 Identify high-performing categories and regions
 
